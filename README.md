@@ -5,9 +5,9 @@
 
 - 👯 I’m looking to collaborate on **cloud projects**
 
-- 🤝 I’m looking for help with **devops**
+- 🤝 I’m looking for help with **data analist**
 
-- 💬 Ask me about **devops**
+- 💬 Ask me about **devops,python,sql**
 
 - 📫 How to reach me **chaitanyagoudnayanoola@gmail.com**
 
